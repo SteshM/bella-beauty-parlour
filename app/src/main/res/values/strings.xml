@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_bella_s_parlour">Welcome to Bella\'s parlour</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password">Password</string>
+    <string name="do_not_have_an_account_register">Do not have an account? Register</string>
+    <string name="already_have_an_account_login">Already have an account? LOGIN</string>
+    <string name="already_have_an_account_login">Already have an account? LOGIN</string>
+    <string name="make_up_kit_at_a_fair_price">Make up kit at a fair price</string>
+    <string name="wigs">Wigs</string>
+    <string name="bella_parlour">Bella Parlour</string>
+</resources>
